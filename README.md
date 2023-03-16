@@ -1,6 +1,7 @@
 # DocQA-gpt3.5-engine
 
 This is a implemtation/remaster of David Shapiro's work of multidocument q&a.
+With better annotation, important line of codes are explained in greater detail.
 
 ## DISCLAIMER: INFORMATIONAL AND EXPERIMENTATION PURPOSES ONLY
 
